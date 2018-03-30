@@ -4,6 +4,7 @@
   "repository": "https://github.com/SecurEth/risk-assessment-tool.git",
   "author": "Roman Pavlovskyi <rpavlovskyi@gmail.com>",
   "license": "MIT",
+  "bin": "./assess.js",
   "dependencies": {
     "ascii-table": "^0.0.9",
     "lodash": "^4.17.5",

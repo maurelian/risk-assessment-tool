@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const _              = require('lodash')
 const SolidityParser = require('solidity-parser')
 const AsciiTable     = require('ascii-table')
